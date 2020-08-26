@@ -38,3 +38,7 @@ set DENO_DIR ./deno_dir
 ### Deno runtime API
 
 https://doc.deno.land/builtin/stable
+
+### re-download dependencies in cache
+
+deno run --reload 
